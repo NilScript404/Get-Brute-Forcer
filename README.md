@@ -30,8 +30,8 @@ This project is a multi-threaded brute-forcing tool developed for Geph.io. Using
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/repo-name.git
-   cd repo-name
+   git clone https://github.com/NilScript404/Geph-Brute-Forcer.git
+   cd Geph-Brute-Forcer
 ## ⚠️ Disclaimer
 
 
