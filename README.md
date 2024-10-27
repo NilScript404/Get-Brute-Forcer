@@ -13,7 +13,11 @@ This project is a multi-threaded brute-forcing tool developed for Geph.io. Using
 ## User Interface
 
 
-![Application UI](https://github.com/NilScript404/Get-Brute-Forcer/blob/main/UI.PNG)
+<p align="center">
+
+  <img src="https://github.com/NilScript404/Get-Brute-Forcer/blob/main/UI.PNG" alt="Application UI">
+
+</p>
 
 ## Project Structure
 
