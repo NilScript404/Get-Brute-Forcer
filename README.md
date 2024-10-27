@@ -32,3 +32,16 @@ This project is a multi-threaded brute-forcing tool developed for Geph.io. Using
    ```bash
    git clone https://github.com/yourusername/repo-name.git
    cd repo-name
+## ⚠️ Disclaimer
+
+
+This software is provided for educational and research purposes only. The author does not endorse or encourage any malicious use of this tool. Users are responsible for ensuring their use of this software complies with all applicable laws, terms of service, and ethical guidelines.
+
+
+- This tool should only be used on systems and accounts you own or have explicit permission to test.
+
+- Unauthorized access to computer systems and accounts is illegal and unethical.
+
+- The author assumes no liability for any misuse or damage caused by this software.
+
+- Use at your own risk.
