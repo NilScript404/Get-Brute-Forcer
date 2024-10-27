@@ -21,9 +21,9 @@ This project is a multi-threaded brute-forcing tool developed for Geph.io. Using
 
 ## Dependencies
 
-- Gephwin (if required, specify link to installation or use).
-- .NET Framework compatible with HttpClient.
-- JSON parsing libraries if needed (e.g., Newtonsoft.Json).
+- .NET 8.
+- .WINFORM 
+
 
 ## Usage
 
